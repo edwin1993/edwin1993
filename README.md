@@ -12,8 +12,7 @@ Les cuento un poco sobre mi:
 - CSS
 - JavaScript
 - Node
+- NestJs
 - Angular
-- Un poco de Java
-- Un poco de PHP
 
 :pencil: Actualmente sigo estudiando para mejorar mis capacidades cada dia.
