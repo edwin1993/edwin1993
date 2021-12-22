@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi! 👋 Soy Edwin
 
-<!--
-**edwin1993/edwin1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ✨**Ingeniero de Software**✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Les cuento un poco sobre mi:
+
+- :computer: Soy graduado de ingenieria de Software desde el 2020, he trabajado en proyectos frontend y backend, actualmente me encuentro desarrollando backend...
+
+- :pencil: Tengo Conocimiento en las siguientes tecnologias
+- HTML
+- CSS
+- JavaScript
+- Node
+- Angular
+- Un poco de Java
+- Un poco de PHP
+
+:pencil: Actualmente sigo estudiando para mejorar mis capacidades cada dia.
