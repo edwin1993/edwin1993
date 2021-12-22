@@ -1,4 +1,6 @@
-### Hi! 👋 Soy Edwin
+### Hi Developers! 👋 Soy Edwin
+
+-----
 
 
  ✨**Ingeniero de Software**✨
@@ -16,3 +18,6 @@ Les cuento un poco sobre mi:
 - Angular
 
 :pencil: Actualmente sigo estudiando para mejorar mis capacidades cada dia.
+
+-----
+
