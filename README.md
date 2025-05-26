@@ -23,6 +23,7 @@ Graduado en 2020, he trabajado en proyectos **frontend** y **backend**, especial
   - Oracle
 - 🧩 **Herramientas de desarrollo:**
   - Git & GitHub
+  - Azure devops
   - Postman, Swagger (Documentación de APIs)
   - SonarQube (Análisis de calidad)
   - Docker
